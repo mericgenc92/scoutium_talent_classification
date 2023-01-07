@@ -1,2 +1,1 @@
-# scoutium_talent_classification
- Scoutium Verisi ile Oyuncu Yetenek Sınıflandırma
+# Scoutium Verisi ile Machine Learning kullanarak oyuncu yetenek sınıflandırma
